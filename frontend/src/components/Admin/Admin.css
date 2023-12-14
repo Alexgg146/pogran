@@ -1,0 +1,10 @@
+.admin{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    margin: 100px auto;
+}
+.admin__cell{
+    margin-top: 20px;
+    border: 1px solid red;
+}
